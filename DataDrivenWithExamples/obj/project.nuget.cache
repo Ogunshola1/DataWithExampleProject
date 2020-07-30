@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r02/Wmk21+wIAgfUeIFfhzM/oUVvUMdg3dWUJP6cjXTQcoIRMb0EnEb8z1E/pjvxqL3JUKe2g2TpZNAfkMHJAg==",
+  "dgSpecHash": "g5YfJq52IM1kDLUdJWeCQ9cbrugO5JnoOuuKPMfYJrBz+QA32Wn7D0eXTY/nTl/3HYS3Rv4q0OntWZe5HxSBjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\folak\\source\\repos\\DataDrivenWithExamples\\DataDrivenWithExamples\\DataDrivenWithExamples.csproj",
+  "projectFilePath": "C:\\Users\\folak\\source\\repos\\Work\\DataWithExampleProject\\DataDrivenWithExamples\\DataDrivenWithExamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\folak\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\folak\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",

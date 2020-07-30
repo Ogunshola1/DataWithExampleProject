@@ -6682,11 +6682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\folak\\source\\repos\\DataDrivenWithExamples\\DataDrivenWithExamples\\DataDrivenWithExamples.csproj",
+      "projectUniqueName": "C:\\Users\\folak\\source\\repos\\Work\\DataWithExampleProject\\DataDrivenWithExamples\\DataDrivenWithExamples.csproj",
       "projectName": "DataDrivenWithExamples",
-      "projectPath": "C:\\Users\\folak\\source\\repos\\DataDrivenWithExamples\\DataDrivenWithExamples\\DataDrivenWithExamples.csproj",
+      "projectPath": "C:\\Users\\folak\\source\\repos\\Work\\DataWithExampleProject\\DataDrivenWithExamples\\DataDrivenWithExamples.csproj",
       "packagesPath": "C:\\Users\\folak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\folak\\source\\repos\\DataDrivenWithExamples\\DataDrivenWithExamples\\obj\\",
+      "outputPath": "C:\\Users\\folak\\source\\repos\\Work\\DataWithExampleProject\\DataDrivenWithExamples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\folak\\AppData\\Roaming\\NuGet\\NuGet.Config",
